@@ -1,4 +1,4 @@
-**本组件主要功能是让高于1.4.x版本的springboot支持velocity模板**
+**本组件主要功能是让1.4.x以上版本的springboot支持velocity模板**
 
 使用方式
 ===
