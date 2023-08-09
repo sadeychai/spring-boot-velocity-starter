@@ -1,5 +1,9 @@
 **本组件主要功能是让1.4.x以上版本的springboot支持velocity模板**
 
+实现
+===
+该组件的实现步骤可以参考博文：[【终极方案】Springboot1.5以上版本如何支持Velocity模板](https://blog.csdn.net/kksadie/article/details/132193526)
+
 使用方式
 ===
 pom引入：
